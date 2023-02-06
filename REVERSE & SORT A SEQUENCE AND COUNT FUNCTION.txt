@@ -1,0 +1,8 @@
+list1 = [100,200,500,700,250,75]
+list1 .reverse()
+print (list1)
+list1 .sort()
+print (list1)
+list1 = [100,200,500,700,500,75]
+a = list1.count(500)
+print (a)

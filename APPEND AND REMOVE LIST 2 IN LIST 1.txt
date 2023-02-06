@@ -1,0 +1,6 @@
+list1 = [100,200,500,"hello","welcome","java"]
+list2 = [100, 15, 23]
+a = list1.append (list2)
+print (list1)
+b = list1.remove (list2)
+print (list1)
